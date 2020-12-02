@@ -70,7 +70,7 @@ twitter_69,SARCASM
 twitter_70,SARCASM
 twitter_71,SARCASM
 twitter_72,SARCASM
-twitter_73,NOT_SARCASM
+twitter_73,SARCASM
 twitter_74,NOT_SARCASM
 twitter_75,NOT_SARCASM
 twitter_76,SARCASM
@@ -110,7 +110,7 @@ twitter_109,SARCASM
 twitter_110,SARCASM
 twitter_111,SARCASM
 twitter_112,SARCASM
-twitter_113,NOT_SARCASM
+twitter_113,SARCASM
 twitter_114,NOT_SARCASM
 twitter_115,SARCASM
 twitter_116,SARCASM
@@ -145,7 +145,7 @@ twitter_144,NOT_SARCASM
 twitter_145,NOT_SARCASM
 twitter_146,NOT_SARCASM
 twitter_147,NOT_SARCASM
-twitter_148,NOT_SARCASM
+twitter_148,SARCASM
 twitter_149,SARCASM
 twitter_150,SARCASM
 twitter_151,SARCASM
@@ -263,7 +263,7 @@ twitter_262,SARCASM
 twitter_263,NOT_SARCASM
 twitter_264,NOT_SARCASM
 twitter_265,SARCASM
-twitter_266,NOT_SARCASM
+twitter_266,SARCASM
 twitter_267,NOT_SARCASM
 twitter_268,NOT_SARCASM
 twitter_269,SARCASM
@@ -324,7 +324,7 @@ twitter_323,SARCASM
 twitter_324,SARCASM
 twitter_325,NOT_SARCASM
 twitter_326,NOT_SARCASM
-twitter_327,NOT_SARCASM
+twitter_327,SARCASM
 twitter_328,NOT_SARCASM
 twitter_329,NOT_SARCASM
 twitter_330,SARCASM
@@ -338,7 +338,7 @@ twitter_337,NOT_SARCASM
 twitter_338,NOT_SARCASM
 twitter_339,NOT_SARCASM
 twitter_340,SARCASM
-twitter_341,SARCASM
+twitter_341,NOT_SARCASM
 twitter_342,SARCASM
 twitter_343,SARCASM
 twitter_344,NOT_SARCASM
@@ -359,7 +359,7 @@ twitter_358,NOT_SARCASM
 twitter_359,NOT_SARCASM
 twitter_360,SARCASM
 twitter_361,NOT_SARCASM
-twitter_362,NOT_SARCASM
+twitter_362,SARCASM
 twitter_363,SARCASM
 twitter_364,SARCASM
 twitter_365,NOT_SARCASM
@@ -407,7 +407,7 @@ twitter_406,NOT_SARCASM
 twitter_407,SARCASM
 twitter_408,SARCASM
 twitter_409,SARCASM
-twitter_410,NOT_SARCASM
+twitter_410,SARCASM
 twitter_411,SARCASM
 twitter_412,NOT_SARCASM
 twitter_413,SARCASM
@@ -430,7 +430,7 @@ twitter_429,NOT_SARCASM
 twitter_430,SARCASM
 twitter_431,NOT_SARCASM
 twitter_432,SARCASM
-twitter_433,NOT_SARCASM
+twitter_433,SARCASM
 twitter_434,NOT_SARCASM
 twitter_435,NOT_SARCASM
 twitter_436,SARCASM
@@ -476,7 +476,7 @@ twitter_475,NOT_SARCASM
 twitter_476,SARCASM
 twitter_477,NOT_SARCASM
 twitter_478,NOT_SARCASM
-twitter_479,NOT_SARCASM
+twitter_479,SARCASM
 twitter_480,SARCASM
 twitter_481,NOT_SARCASM
 twitter_482,NOT_SARCASM
@@ -490,7 +490,7 @@ twitter_489,SARCASM
 twitter_490,SARCASM
 twitter_491,NOT_SARCASM
 twitter_492,NOT_SARCASM
-twitter_493,NOT_SARCASM
+twitter_493,SARCASM
 twitter_494,SARCASM
 twitter_495,NOT_SARCASM
 twitter_496,SARCASM
@@ -610,7 +610,7 @@ twitter_609,NOT_SARCASM
 twitter_610,NOT_SARCASM
 twitter_611,NOT_SARCASM
 twitter_612,SARCASM
-twitter_613,NOT_SARCASM
+twitter_613,SARCASM
 twitter_614,SARCASM
 twitter_615,SARCASM
 twitter_616,NOT_SARCASM
@@ -657,7 +657,7 @@ twitter_656,NOT_SARCASM
 twitter_657,SARCASM
 twitter_658,SARCASM
 twitter_659,NOT_SARCASM
-twitter_660,NOT_SARCASM
+twitter_660,SARCASM
 twitter_661,SARCASM
 twitter_662,SARCASM
 twitter_663,NOT_SARCASM
@@ -669,14 +669,14 @@ twitter_668,NOT_SARCASM
 twitter_669,NOT_SARCASM
 twitter_670,SARCASM
 twitter_671,SARCASM
-twitter_672,NOT_SARCASM
+twitter_672,SARCASM
 twitter_673,NOT_SARCASM
 twitter_674,SARCASM
 twitter_675,SARCASM
 twitter_676,NOT_SARCASM
 twitter_677,NOT_SARCASM
 twitter_678,SARCASM
-twitter_679,NOT_SARCASM
+twitter_679,SARCASM
 twitter_680,NOT_SARCASM
 twitter_681,SARCASM
 twitter_682,SARCASM
@@ -755,7 +755,7 @@ twitter_754,NOT_SARCASM
 twitter_755,NOT_SARCASM
 twitter_756,SARCASM
 twitter_757,NOT_SARCASM
-twitter_758,NOT_SARCASM
+twitter_758,SARCASM
 twitter_759,NOT_SARCASM
 twitter_760,SARCASM
 twitter_761,NOT_SARCASM
@@ -770,7 +770,7 @@ twitter_769,NOT_SARCASM
 twitter_770,NOT_SARCASM
 twitter_771,NOT_SARCASM
 twitter_772,NOT_SARCASM
-twitter_773,NOT_SARCASM
+twitter_773,SARCASM
 twitter_774,SARCASM
 twitter_775,SARCASM
 twitter_776,SARCASM
@@ -905,7 +905,7 @@ twitter_904,SARCASM
 twitter_905,SARCASM
 twitter_906,NOT_SARCASM
 twitter_907,SARCASM
-twitter_908,NOT_SARCASM
+twitter_908,SARCASM
 twitter_909,SARCASM
 twitter_910,SARCASM
 twitter_911,SARCASM
@@ -959,7 +959,7 @@ twitter_958,SARCASM
 twitter_959,NOT_SARCASM
 twitter_960,SARCASM
 twitter_961,SARCASM
-twitter_962,SARCASM
+twitter_962,NOT_SARCASM
 twitter_963,NOT_SARCASM
 twitter_964,SARCASM
 twitter_965,SARCASM
@@ -1001,7 +1001,7 @@ twitter_1000,NOT_SARCASM
 twitter_1001,SARCASM
 twitter_1002,SARCASM
 twitter_1003,SARCASM
-twitter_1004,NOT_SARCASM
+twitter_1004,SARCASM
 twitter_1005,SARCASM
 twitter_1006,SARCASM
 twitter_1007,NOT_SARCASM
@@ -1023,7 +1023,7 @@ twitter_1022,NOT_SARCASM
 twitter_1023,SARCASM
 twitter_1024,SARCASM
 twitter_1025,NOT_SARCASM
-twitter_1026,NOT_SARCASM
+twitter_1026,SARCASM
 twitter_1027,SARCASM
 twitter_1028,SARCASM
 twitter_1029,NOT_SARCASM
@@ -1280,7 +1280,7 @@ twitter_1279,NOT_SARCASM
 twitter_1280,SARCASM
 twitter_1281,SARCASM
 twitter_1282,NOT_SARCASM
-twitter_1283,SARCASM
+twitter_1283,NOT_SARCASM
 twitter_1284,SARCASM
 twitter_1285,NOT_SARCASM
 twitter_1286,SARCASM
@@ -1452,7 +1452,7 @@ twitter_1451,NOT_SARCASM
 twitter_1452,SARCASM
 twitter_1453,NOT_SARCASM
 twitter_1454,NOT_SARCASM
-twitter_1455,NOT_SARCASM
+twitter_1455,SARCASM
 twitter_1456,SARCASM
 twitter_1457,SARCASM
 twitter_1458,SARCASM
@@ -1594,7 +1594,7 @@ twitter_1593,NOT_SARCASM
 twitter_1594,NOT_SARCASM
 twitter_1595,NOT_SARCASM
 twitter_1596,SARCASM
-twitter_1597,SARCASM
+twitter_1597,NOT_SARCASM
 twitter_1598,NOT_SARCASM
 twitter_1599,SARCASM
 twitter_1600,SARCASM
@@ -1619,7 +1619,7 @@ twitter_1618,SARCASM
 twitter_1619,NOT_SARCASM
 twitter_1620,SARCASM
 twitter_1621,SARCASM
-twitter_1622,NOT_SARCASM
+twitter_1622,SARCASM
 twitter_1623,SARCASM
 twitter_1624,SARCASM
 twitter_1625,SARCASM
@@ -1698,8 +1698,8 @@ twitter_1697,SARCASM
 twitter_1698,NOT_SARCASM
 twitter_1699,NOT_SARCASM
 twitter_1700,NOT_SARCASM
-twitter_1701,NOT_SARCASM
-twitter_1702,NOT_SARCASM
+twitter_1701,SARCASM
+twitter_1702,SARCASM
 twitter_1703,NOT_SARCASM
 twitter_1704,NOT_SARCASM
 twitter_1705,SARCASM
@@ -1767,7 +1767,7 @@ twitter_1766,SARCASM
 twitter_1767,NOT_SARCASM
 twitter_1768,SARCASM
 twitter_1769,NOT_SARCASM
-twitter_1770,NOT_SARCASM
+twitter_1770,SARCASM
 twitter_1771,NOT_SARCASM
 twitter_1772,NOT_SARCASM
 twitter_1773,NOT_SARCASM
