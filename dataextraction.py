@@ -19,10 +19,10 @@ def parse_json(data, train):
         dict = json.loads(i)
         l = list(dict.values())
         context = l.pop()
-        context_s = context[0]
-        for i in range(1, min(len(context), 2)):
-            context_s += " " + context[i]
-        l[1] += " " + context_s
+#         context_s = context[0]
+#         for i in range(1, min(len(context), 2)):
+#             context_s += " " + context[i]
+#         l[1] += " " + context_s
         tmp = pd.DataFrame([l], columns = list(df.columns))
         df = df.append(tmp)
     return df
